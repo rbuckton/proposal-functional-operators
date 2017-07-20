@@ -23,7 +23,7 @@ will be updated automatically when you publish.
 
 -->
 
-# Proposal to add functional operators (`{+}`, `{-}`) to ECMAScript
+# Proposal to add functional operators to ECMAScript
 
 This strawman seeks to define the possible syntax and semantics for functional operators
 for ECMAScript. 
@@ -46,7 +46,7 @@ A "functional operator" is an operator-like sigil that acts like a function at r
 addition, a "binary functional operator" allows either the first or second operand to be fixed.
 
 Most functional operators are written as `{<<op>>}` where `<<op>>` is one of the binary or
-unary punctuators in JavaScript, or the `instanceof`, `in`, and `typeof` keywords. In cases
+unary operator punctuators, or one of the `instanceof`, `in`, or `typeof` keywords. In cases
 where an operator has an overloaded definition between both binary and unary forms, the unary
 versions of the operator have the form `{~<<op>>}`.
 

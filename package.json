@@ -2,7 +2,7 @@
   "name": "proposal-functional-operators",
   "version": "0.0.0",
   "private": true,
-  "description": "Proposal to add functional operators (`{+}`, `{-}`) to ECMAScript",
+  "description": "Proposal to add functional operators to ECMAScript",
   "homepage": "https://github.com/rbuckton/proposal-functional-operators#readme",
   "author": {
     "name": "Ron Buckton",
