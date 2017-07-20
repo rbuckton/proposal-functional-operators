@@ -154,3 +154,7 @@ const halves = numbers
 
 <!-- # References -->
 <!-- Links to other specifications, prior art, etc. -->
+
+# Prior Art
+
+* [F#](http://fsharp.org) symbolic operators.
