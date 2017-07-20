@@ -105,7 +105,7 @@ conversions:
 {!}                 // (a) => !a
 
 // other unary operator function
-(typeof)            // (a) => typeof a
+{typeof}            // (a) => typeof a
 ```
 
 Each functional operator is a frozen function that exists at most once per realm. This can help to 
