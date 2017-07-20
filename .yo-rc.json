@@ -1,0 +1,9 @@
+{
+  "generator-ecmascript-proposal": {
+    "promptValues": {
+      "stage": 0,
+      "authorName": "Ron Buckton",
+      "authorEmail": "ron.buckton@microsoft.com"
+    }
+  }
+}
